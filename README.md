@@ -7,5 +7,5 @@ We can use different ways to sync
 - Merge and squash. 
   This will remove intermediate commits, but will it preserve graph structure on GH?
   It will, but how to sync upstream with origin after PR?
-- Finally we can rebase.
+- Finally we can rebase. Although there is no squash option?
 
